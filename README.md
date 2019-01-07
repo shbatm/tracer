@@ -493,6 +493,9 @@ More features, please read examples.
 
 ## History
 
+### 0.9.9
+* Changed - Redefined 'printer' as pure clone of original  'console' when overwriting default console methods.
+
 ### 0.9.8
 * Added. {{folder}} template option for parent folder. #96 by @shbatm.
 * Added. rootDir param option for folder. #99 by @nswbmw. sample: folder.js and folder2.js
